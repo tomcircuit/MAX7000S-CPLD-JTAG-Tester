@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name EPM7128SLC84-10)(type Legacy)(uri ${KIPRJMOD}/EPM7128SLC84-10/EPM7128SLC84-10.lib)(options "")(descr ""))
+  (lib (name EPM7064STC44-7)(type Legacy)(uri ${KIPRJMOD}/EPM7064STC44-7/EPM7064STC44-7.lib)(options "")(descr ""))
+)
